@@ -37,8 +37,6 @@ Na próxima etapa, o Lambda marcará todos os volumes de instância com as tags 
 
 
 
-Cole o código abaixo e clique em “Salvar” ou “Deploy”.
-
 
 ```
 import json
